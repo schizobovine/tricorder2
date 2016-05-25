@@ -35,3 +35,6 @@ build-*
 
 # viertualenvs
 venv
+
+# PlatformIO build dir
+.pioenvs
