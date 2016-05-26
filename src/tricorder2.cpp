@@ -9,6 +9,9 @@
  */
 
 #include <Arduino.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1351.h>
+#include <Adafruit_BMP280.h>
 
 ////////////////////////////////////////////////////////////////////////
 // SETUP
